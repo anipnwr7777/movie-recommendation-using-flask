@@ -10,6 +10,8 @@
 
 ## Demo
 
+### this project has been deployed on heroku.
+
 https://movie-recommend-using-flask.herokuapp.com/
 
 ## Tech used
@@ -84,21 +86,6 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
   http://127.0.0.1:5000/
 ```
 7. That's it your recommendation system is up and running.
-
-
-  
-
-  
-
-
-  
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
   
 ## Contributing
