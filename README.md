@@ -3,10 +3,11 @@
 
 ## Features
 
-- Web development of top of a machine learning model
+- Web development on top of a machine learning model
 - Responsive webpage
 - Web Scraping
 - Asynchronous requests
+- Autocomplete during movie searching.
 
 ## Demo
 
